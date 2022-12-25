@@ -3,15 +3,15 @@
 }
 
 h1 {
-    color: blue;
+    color: black;
     font-size: 175%;
     text-align: center;
-    font-family: "Comic Sans MS";
+    font-family: "Agency FB";
 
 }
 
 section {
-    border: 1px solid black;    
+    border: 1px solid white;    
     background-color: burlywood;
     height: 250px;
     overflow: auto;
@@ -30,18 +30,19 @@ h2 {
 ul {
     clear: right;
     width: 90%;
+
 }
 
 #chicken {
-    background-color: rebeccapurple;
+    background-color: rgb(33, 71, 120);
 }
 
 #pork {
-    background-color: teal;
+    background-color: rgb(33, 71, 120);
 }
 
 #steak {
-    background-color: aqua;
+    background-color: rgb(33, 71, 120);
 }
 
 
